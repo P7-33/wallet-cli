@@ -1,4 +1,4 @@
-package org.tron.common.crypto;
+#package org.tron.common.crypto;
 /*
  * Copyright (c) [2016] [ <ether.camp> ]
  * This file is part of the ethereumJ library.
