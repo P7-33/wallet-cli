@@ -273,7 +273,7 @@ Balance = 0
 
 Each account can only issue **ONE** TRC10 token.
 
-### Issue TRC10 tokens
+### Issue TRC100 tokens
 
     > AssetIssue [OwnerAddress] AssetName AbbrName TotalSupply TrxNum AssetNum Precision StartDate EndDate Description Url FreeNetLimitPerAccount PublicFreeNetLimit FrozenAmount0 FrozenDays0 [...] FrozenAmountN FrozenDaysN
 
